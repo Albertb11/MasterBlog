@@ -1,5 +1,5 @@
 #container{
-    background-color: blue;
+    background-color:brown;
     color: white;
     padding: 0.5em;
     margin: 0.5em;
@@ -10,6 +10,10 @@
 
 #container p{
     font-size: 15px;
+}
+#container #texto{
+    font-family: cursive;
+    color:cornsilk
 }
 
 #container h1{
